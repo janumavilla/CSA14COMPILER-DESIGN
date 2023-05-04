@@ -12,3 +12,8 @@ EXP:3
 EXP:4
 
 ![Screenshot (57)](https://user-images.githubusercontent.com/112294762/236114002-e7a7648a-d581-4816-82e7-8a765fe72578.png)
+
+EXP 6:
+
+![Screenshot (62)](https://user-images.githubusercontent.com/112294762/236124451-bc7b3939-7d95-481c-8834-243abd3c1bf0.png)
+
