@@ -50,6 +50,11 @@ exp 18:
 
 ![Screenshot (91)](https://user-images.githubusercontent.com/112294762/237053418-1301020c-0485-4e2c-9499-688fe12a96f1.png)
 
+exp 19:
+
+![Screenshot (96)](https://github.com/janumavilla/CSA14COMPILER-DESIGN/assets/112294762/b75fa8f5-1baf-4655-acf9-ab2fb0c89a21)
+
+
 
 
 
